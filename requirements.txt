@@ -12,3 +12,4 @@ langchain-text-splitters>=0.2
 sentence-transformers>=2.7
 faiss-cpu>=1.7.4
 tqdm>=4.66
+gradio>=4.31
