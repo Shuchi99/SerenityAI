@@ -5,7 +5,7 @@ Built with **LangChain**, **FAISS**, **Llama 3.1 (8B via Ollama)**, and **Huggin
 
 ---
 
-## 🚀 Features (Step 5)
+## 🚀 Features
 - **Emotion-Aware Responses** – Uses a RoBERTa-based classifier to detect emotions in user input and condition the system prompt for empathetic, context-aware replies.
 - **Retrieval-Augmented Generation (RAG)** – Combines a FAISS vector store + LangChain retriever to ground responses in a curated knowledge base (breathing techniques, sleep hygiene, grounding exercises).
 
